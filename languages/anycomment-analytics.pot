@@ -1,0 +1,432 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: AnyComment Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-17 20:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: anycomment-analytics.php:136
+msgid "From date"
+msgstr ""
+
+#: anycomment-analytics.php:137
+msgid "To date"
+msgstr ""
+
+#: anycomment-analytics.php:138
+msgid "Loading..."
+msgstr ""
+
+#: anycomment-analytics.php:140
+msgid "Today"
+msgstr ""
+
+#: anycomment-analytics.php:141
+msgid "Yesterday"
+msgstr ""
+
+#: anycomment-analytics.php:142
+msgid "Week"
+msgstr ""
+
+#: anycomment-analytics.php:143
+msgid "Month"
+msgstr ""
+
+#: anycomment-analytics.php:144
+msgid "Quarter"
+msgstr ""
+
+#: anycomment-analytics.php:145
+msgid "Year"
+msgstr ""
+
+#: anycomment-analytics.php:147
+msgid "Custom Interval:"
+msgstr ""
+
+#: anycomment-analytics.php:164
+msgid "Analytics"
+msgstr ""
+
+#: anycomment-analytics.php:189
+msgid "AnyComment Analytics requires a license"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:52
+#, php-format
+msgid "No data available between %s and %s"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:252 templates/tab-users.php:3
+#: templates/graphs.php:20
+msgid "Users"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:406 templates/graphs.php:16
+#: templates/tab-comments.php:3
+msgid "Comments"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:476
+msgid "Hour"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:563 templates/graphs.php:28
+#: templates/tab-files.php:3 templates/tab-summary.php:58
+msgid "Files"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:642 templates/tab-posts.php:27
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:721 templates/graphs.php:32
+#: templates/tab-emails.php:3
+msgid "Emails"
+msgstr ""
+
+#: templates/tab-reports.php:7
+msgid "Send Report Now"
+msgstr ""
+
+#: templates/tab-reports.php:8
+msgid ""
+"You may use button below to send report now. It would add emails to the "
+"queue and they should be send within a minute."
+msgstr ""
+
+#: templates/tab-reports.php:12
+msgid "Send now"
+msgstr ""
+
+#: templates/tab-users.php:4
+msgid "Number of registered users per specified period of time."
+msgstr ""
+
+#: templates/tab-users.php:15
+msgid "Social Networks"
+msgstr ""
+
+#: templates/tab-users.php:16
+msgid "List of most used social networks."
+msgstr ""
+
+#: templates/graphs.php:8 templates/tab-summary.php:1
+msgid "Summary"
+msgstr ""
+
+#: templates/graphs.php:12
+msgid "Reports"
+msgstr ""
+
+#: templates/graphs.php:24
+msgid "Posts"
+msgstr ""
+
+#: templates/tab-files.php:4
+msgid "Uploaded files per specified period of time."
+msgstr ""
+
+#: templates/tab-files.php:15
+msgid "Popular File Types"
+msgstr ""
+
+#: templates/tab-files.php:16
+msgid "Popular file types uploaded."
+msgstr ""
+
+#: templates/tab-summary.php:24
+msgid "Social Users"
+msgstr ""
+
+#: templates/tab-summary.php:25
+msgid "Number of total signed-up social network users."
+msgstr ""
+
+#: templates/tab-summary.php:59
+msgid "Number of total uploaded files."
+msgstr ""
+
+#: templates/tab-summary.php:80
+msgid "Post Subscribers"
+msgstr ""
+
+#: templates/tab-summary.php:81
+msgid "Number of total subscribed users for posts."
+msgstr ""
+
+#: templates/tab-summary.php:110
+msgid "Sent Emails"
+msgstr ""
+
+#: templates/tab-summary.php:111
+msgid "Number of total emails sent."
+msgstr ""
+
+#: templates/tab-summary.php:132
+msgid "Post Ratings"
+msgstr ""
+
+#: templates/tab-summary.php:133
+msgid "Number of total post ratings."
+msgstr ""
+
+#: templates/tab-summary.php:165
+msgid "Likes/Dislikes"
+msgstr ""
+
+#: templates/tab-summary.php:166
+msgid "Number of total likes and dislikes."
+msgstr ""
+
+#: templates/tab-emails.php:4
+msgid "Emails per specified period of time."
+msgstr ""
+
+#: templates/tab-comments.php:4
+msgid "All comments per specified period of time."
+msgstr ""
+
+#: templates/tab-comments.php:14
+msgid "Common Hours"
+msgstr ""
+
+#: templates/tab-comments.php:15
+msgid "Common hours for users to comment. Displayed in 24 hours format."
+msgstr ""
+
+#: templates/tab-posts.php:3
+msgid "Popular by Rating"
+msgstr ""
+
+#: templates/tab-posts.php:4
+msgid "Most popular posts by rating."
+msgstr ""
+
+#: templates/tab-posts.php:15
+msgid "Popular by Subscriptions"
+msgstr ""
+
+#: templates/tab-posts.php:16
+msgid "Popular posts where users subscribed the most."
+msgstr ""
+
+#: templates/tab-posts.php:28
+msgid "Subscriptions per specified period of time."
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:67
+msgid "Report"
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:74
+msgid "Email recipients"
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:75
+#, php-format
+msgid ""
+"By default we send report to \"Email Address\" listed in \"<a href=\"%s\">"
+"General</a>\" settings. You may specify different email or list of them "
+"separated by comma. e.g. \"johndoe@gmail.com,alisa@gmail.com\" to send email "
+"to two recipients."
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:81
+msgid "Report period"
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:84
+msgid "Daily"
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:85
+msgid "Weekly"
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:86
+msgid "Monthly"
+msgstr ""
+
+#: includes/Pages/ReportSettings.php:89
+msgid "Report interval. Define what is good period to receive a report."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:88
+msgid "Hello,"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:90
+#, php-format
+msgid ""
+"This email contains analytical summary for %s about comments, active users, "
+"including moderators and administrators for period between %s and %s."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:143
+#, php-format
+msgid "%s emails sent"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:149
+#, php-format
+msgid "%s new likes"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:155
+#, php-format
+msgid "%s new post ratings"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:161
+#, php-format
+msgid "%s new subscriptions"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:167
+#, php-format
+msgid "%s new files uploaded"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:169
+msgid "Also, there were:"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:200
+msgid "No popular post found for such period."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:203
+#, php-format
+msgid "%s is the most popular post based on number of comments."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:240
+msgid "No active moderator was found for such period."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:243
+#, php-format
+msgctxt "Number of approved comments"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Emails/AdminNotification.php:252
+#, php-format
+msgid "%s approved %s and considered as the most active."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:278
+#, php-format
+msgctxt "Number of registered user in email template"
+msgid "<strong>%s user</strong> was registered."
+msgid_plural "<strong>%s users</strong> were registered."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Emails/AdminNotification.php:310
+#: includes/Emails/AdminNotification.php:426
+msgid "From this:"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:319
+#, php-format
+msgid "%s from %s"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:327
+msgid "Unable to get detailed user information."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:378
+#, php-format
+msgid ""
+"<strong>%s</strong> is the most active for <i>number of comments</i> and <i>"
+"rating</i>."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:379
+msgid "No name"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:421
+#, php-format
+msgid "Published <strong>%s comments</strong> for <strong>%s posts</strong>."
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:431
+#, php-format
+msgctxt "Number of comment replies in email template"
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/Emails/AdminNotification.php:441
+#, php-format
+msgid "%s awaiting moderation"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:443
+#, php-format
+msgid "%s spam"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:445
+#, php-format
+msgid "%s trashed"
+msgstr ""
+
+#: includes/Emails/AdminNotification.php:491
+#, php-format
+msgid "Analytical Summary for %s and %s"
+msgstr ""
+
+#: includes/Cron/AnyCommentAnalyticsReport.php:59
+msgid "Every day"
+msgstr ""
+
+#: includes/Cron/AnyCommentAnalyticsReport.php:63
+msgid "Every week"
+msgstr ""
+
+#: includes/Cron/AnyCommentAnalyticsReport.php:67
+msgid "Every month"
+msgstr ""
+
+#: includes/Ajax/AnyCommentAnalyticsAjaxReport.php:36
+msgid "Report added to queue, will be send soon."
+msgstr ""
+
+#: includes/Ajax/AnyCommentAnalyticsAjaxReport.php:43
+msgid "Failed to send report. Try again later"
+msgstr ""
+
+#. Name of the plugin
+msgid "AnyComment Analytics"
+msgstr ""
+
+#. Description of the plugin
+msgid "Advanced Analytics for AnyComment."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://anycomment.io"
+msgstr ""
+
+#. Author of the plugin
+msgid "AnyComment.io"
+msgstr ""

@@ -1,0 +1,74 @@
+#anycomment-wrapper .anycomment-chart {
+  display: block; }
+  #anycomment-wrapper .anycomment-chart__periods {
+    display: flex;
+    flex-wrap: wrap; }
+    #anycomment-wrapper .anycomment-chart__periods input {
+      display: none; }
+    #anycomment-wrapper .anycomment-chart__periods-button {
+      display: inline-block;
+      vertical-align: middle;
+      font-family: inherit;
+      padding: 10px 30px;
+      -webkit-appearance: none;
+      border: 1px solid #B6C1C6;
+      border-radius: 16px;
+      -webkit-transition: background-color .25s ease-out, color .25s ease-out;
+      transition: background-color .25s ease-out, color .25s ease-out;
+      line-height: 1;
+      text-align: center;
+      cursor: pointer;
+      color: #686868;
+      background-color: #FCFCFC;
+      font-size: 12px;
+      margin-right: 15px; }
+    #anycomment-wrapper .anycomment-chart__periods input[type="radio"]:checked + span {
+      background-color: #1DA1F2;
+      border: 1px solid #1DA1F2;
+      color: #fff; }
+  #anycomment-wrapper .anycomment-chart__custom-periods {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px; }
+    #anycomment-wrapper .anycomment-chart__custom-periods-field {
+      flex-grow: 1;
+      position: relative; }
+      #anycomment-wrapper .anycomment-chart__custom-periods-field:first-of-type {
+        margin-right: 15px; }
+      #anycomment-wrapper .anycomment-chart__custom-periods-field svg {
+        width: 13px;
+        height: 13px;
+        color: #CED6E0;
+        position: absolute;
+        top: 11px;
+        right: 20px; }
+    #anycomment-wrapper .anycomment-chart__custom-periods input {
+      background: #FCFCFC;
+      border: 1px solid #E8EDEF;
+      box-sizing: border-box;
+      border-radius: 10px;
+      height: 35px;
+      font-size: 14px;
+      padding-right: 45px;
+      padding-left: 20px; }
+#anycomment-wrapper .card {
+  border: 1px solid #B6C1C6;
+  border-radius: 10px; }
+  #anycomment-wrapper .card h2 {
+    font-size: 24px;
+    color: #686868; }
+  #anycomment-wrapper .card p {
+    font-size: 14px; }
+  #anycomment-wrapper .card p.stat {
+    color: #B6C1C6;
+    font-size: 60px;
+    margin-top: 15px; }
+@media screen and (max-width: 1400px) {
+  #anycomment-wrapper .anycomment-chart__periods-button {
+    margin-bottom: 5px; }
+  #anycomment-wrapper .anycomment-chart__custom-periods {
+    margin-bottom: 30px; }
+    #anycomment-wrapper .anycomment-chart__custom-periods-field {
+      margin-right: 0; } }
+
+/*# sourceMappingURL=core.css.map */

@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AnyComment Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-09 20:51+0000\n"
+"PO-Revision-Date: 2019-02-13 20:53+0000\n"
+"Last-Translator: admin <sasha.tesh@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: anycomment-analytics.php:101
+msgid "AnyComment Analytics requires a license!"
+msgstr ""
+
+#: anycomment-analytics.php:130
+msgid "From date"
+msgstr ""
+
+#: anycomment-analytics.php:131
+msgid "To date"
+msgstr ""
+
+#: anycomment-analytics.php:132
+msgid "Loading..."
+msgstr ""
+
+#: anycomment-analytics.php:134
+msgid "Today"
+msgstr ""
+
+#: anycomment-analytics.php:135
+msgid "Yesterday"
+msgstr ""
+
+#: anycomment-analytics.php:136
+msgid "Week"
+msgstr ""
+
+#: anycomment-analytics.php:137
+msgid "Month"
+msgstr ""
+
+#: anycomment-analytics.php:138
+msgid "Quarter"
+msgstr ""
+
+#: anycomment-analytics.php:139
+msgid "Year"
+msgstr ""
+
+#: anycomment-analytics.php:141
+msgid "Custom Interval:"
+msgstr ""
+
+#: anycomment-analytics.php:162
+msgid "Analytics"
+msgstr ""
+
+#: anycomment-analytics.php:187
+msgid "AnyComment Analytics requires a license"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:52
+#, php-format
+msgid "No data available between %s and %s"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:252 templates/tab-users.php:3
+#: templates/graphs.php:16
+msgid "Users"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:406 templates/graphs.php:12
+#: templates/tab-comments.php:3
+msgid "Comments"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:476
+msgid "Hour"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:563 templates/graphs.php:24
+#: templates/tab-files.php:3 templates/tab-summary.php:16
+msgid "Files"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:642 templates/tab-posts.php:27
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/AnyCommentUserAnalytics.php:721 templates/graphs.php:28
+#: templates/tab-emails.php:3
+msgid "Emails"
+msgstr ""
+
+#: templates/tab-users.php:4
+msgid "Number of registered users per specified period of time."
+msgstr ""
+
+#: templates/tab-users.php:15
+msgid "Social Networks"
+msgstr ""
+
+#: templates/tab-users.php:16
+msgid "List of most used social networks."
+msgstr ""
+
+#: templates/graphs.php:8 templates/tab-summary.php:1
+msgid "Summary"
+msgstr ""
+
+#: templates/graphs.php:20
+msgid "Posts"
+msgstr ""
+
+#: templates/tab-files.php:4
+msgid "Uploaded files per specified period of time."
+msgstr ""
+
+#: templates/tab-files.php:15
+msgid "Popular File Types"
+msgstr ""
+
+#: templates/tab-files.php:16
+msgid "Popular file types uploaded."
+msgstr ""
+
+#: templates/tab-summary.php:7
+msgid "Social Users"
+msgstr ""
+
+#: templates/tab-summary.php:8
+msgid "Number of total signed-up social network users."
+msgstr ""
+
+#: templates/tab-summary.php:17
+msgid "Number of total uploaded files."
+msgstr ""
+
+#: templates/tab-summary.php:25
+msgid "Post Subscribers"
+msgstr ""
+
+#: templates/tab-summary.php:26
+msgid "Number of total subscribed users for posts."
+msgstr ""
+
+#: templates/tab-summary.php:35
+msgid "Sent Emails"
+msgstr ""
+
+#: templates/tab-summary.php:36
+msgid "Number of total emails sent."
+msgstr ""
+
+#: templates/tab-summary.php:44
+msgid "Post Ratings"
+msgstr ""
+
+#: templates/tab-summary.php:45
+msgid "Number of total post ratings."
+msgstr ""
+
+#: templates/tab-summary.php:54
+msgid "Likes/Dislikes"
+msgstr ""
+
+#: templates/tab-summary.php:55
+msgid "Number of total likes and dislikes."
+msgstr ""
+
+#: templates/tab-emails.php:4
+msgid "Emails per specified period of time."
+msgstr ""
+
+#: templates/tab-comments.php:4
+msgid "All comments per specified period of time."
+msgstr ""
+
+#: templates/tab-comments.php:14
+msgid "Common Hours"
+msgstr ""
+
+#: templates/tab-comments.php:15
+msgid "Common hours for users to comment. Displayed in 24 hours format."
+msgstr ""
+
+#: templates/tab-posts.php:3
+msgid "Popular by Rating"
+msgstr ""
+
+#: templates/tab-posts.php:4
+msgid "Most popular posts by rating."
+msgstr ""
+
+#: templates/tab-posts.php:15
+msgid "Popular by Subscriptions"
+msgstr ""
+
+#: templates/tab-posts.php:16
+msgid "Popular posts where users subscribed the most."
+msgstr ""
+
+#: templates/tab-posts.php:28
+msgid "Subscriptions per specified period of time."
+msgstr ""
+
+#. Name of the plugin
+msgid "AnyComment Analytics"
+msgstr ""
+
+#. Description of the plugin
+msgid "Advanced Analytics for AnyComment."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://anycomment.io"
+msgstr ""
+
+#. Author of the plugin
+msgid "AnyComment.io"
+msgstr ""

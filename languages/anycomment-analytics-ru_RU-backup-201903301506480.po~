@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AnyComment Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-17 20:26+0000\n"
+"PO-Revision-Date: 2019-03-30 15:06+0000\n"
+"Last-Translator: admin <sasha.tesh@gmail.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: anycomment-analytics.php:136
+msgid "From date"
+msgstr "От"
+
+#: anycomment-analytics.php:137
+msgid "To date"
+msgstr "До"
+
+#: anycomment-analytics.php:138
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: anycomment-analytics.php:140
+msgid "Today"
+msgstr "Сегодня"
+
+#: anycomment-analytics.php:141
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: anycomment-analytics.php:142
+msgid "Week"
+msgstr "Неделя"
+
+#: anycomment-analytics.php:143
+msgid "Month"
+msgstr "Месяц"
+
+#: anycomment-analytics.php:144
+msgid "Quarter"
+msgstr "Квартал"
+
+#: anycomment-analytics.php:145
+msgid "Year"
+msgstr "Год"
+
+#: anycomment-analytics.php:147
+msgid "Custom Interval:"
+msgstr "Собственный интервал:"
+
+#: anycomment-analytics.php:164
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: anycomment-analytics.php:189
+msgid "AnyComment Analytics requires a license"
+msgstr "Для работы AnyComment Analytics требуется лицензия"
+
+#: includes/AnyCommentUserAnalytics.php:52
+#, php-format
+msgid "No data available between %s and %s"
+msgstr "Нет данных за %s - %s"
+
+#: includes/AnyCommentUserAnalytics.php:252 templates/tab-users.php:3
+#: templates/graphs.php:20
+msgid "Users"
+msgstr "Пользователи"
+
+#: includes/AnyCommentUserAnalytics.php:406 templates/graphs.php:16
+#: templates/tab-comments.php:3
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/AnyCommentUserAnalytics.php:476
+msgid "Hour"
+msgstr "Час"
+
+#: includes/AnyCommentUserAnalytics.php:563 templates/graphs.php:28
+#: templates/tab-files.php:3 templates/tab-summary.php:58
+msgid "Files"
+msgstr "Файлы"
+
+#: includes/AnyCommentUserAnalytics.php:642 templates/tab-posts.php:27
+msgid "Subscriptions"
+msgstr "Подписчики"
+
+#: includes/AnyCommentUserAnalytics.php:721 templates/graphs.php:32
+#: templates/tab-emails.php:3
+msgid "Emails"
+msgstr "Письма"
+
+#: templates/tab-reports.php:7
+msgid "Send Report Now"
+msgstr "Отправить отчет сейчас"
+
+#: templates/tab-reports.php:8
+msgid ""
+"You may use button below to send report now. It would add emails to the "
+"queue and they should be send within a minute."
+msgstr ""
+"Вы можете воспользоваться кнопкой ниже, чтобы отправить отчет прямо сейчас. "
+"Она добавит письмо в очередь и отправит в течении минуты."
+
+#: templates/tab-reports.php:12
+msgid "Send now"
+msgstr "Отправить сейчас"
+
+#: templates/tab-users.php:4
+msgid "Number of registered users per specified period of time."
+msgstr "Общее количество регистраций пользователей по периоду."
+
+#: templates/tab-users.php:15
+msgid "Social Networks"
+msgstr "Социальные сети"
+
+#: templates/tab-users.php:16
+msgid "List of most used social networks."
+msgstr ""
+"Самые популярные социальные сети через которые авторизовались пользователи."
+
+#: templates/graphs.php:8 templates/tab-summary.php:1
+msgid "Summary"
+msgstr "Общее"
+
+#: templates/graphs.php:12
+msgid "Reports"
+msgstr "Отчеты"
+
+#: templates/graphs.php:24
+msgid "Posts"
+msgstr "Записи"
+
+#: templates/tab-files.php:4
+msgid "Uploaded files per specified period of time."
+msgstr "Загруженные файлы за указанный промежуток времени."
+
+#: templates/tab-files.php:15
+msgid "Popular File Types"
+msgstr "Популярные расширения"
+
+#: templates/tab-files.php:16
+msgid "Popular file types uploaded."
+msgstr "Популярные расширения файлов."
+
+#: templates/tab-summary.php:24
+msgid "Social Users"
+msgstr "Пользователи соц. сетей"
+
+#: templates/tab-summary.php:25
+msgid "Number of total signed-up social network users."
+msgstr "Общее количество зарегистрированных пользователей из социальных сетей."
+
+#: templates/tab-summary.php:59
+msgid "Number of total uploaded files."
+msgstr "Общее количество загруженных файлов."
+
+#: templates/tab-summary.php:80
+msgid "Post Subscribers"
+msgstr "Подписчики записей"
+
+#: templates/tab-summary.php:81
+msgid "Number of total subscribed users for posts."
+msgstr "Общее количество подписчиков к записям."
+
+#: templates/tab-summary.php:110
+msgid "Sent Emails"
+msgstr "Отправленные письма"
+
+#: templates/tab-summary.php:111
+msgid "Number of total emails sent."
+msgstr "Общее количество отправленных писем."
+
+#: templates/tab-summary.php:132
+msgid "Post Ratings"
+msgstr "Рейтинг записей"
+
+#: templates/tab-summary.php:133
+msgid "Number of total post ratings."
+msgstr "Общее количество рейтингов для записей."
+
+#: templates/tab-summary.php:165
+msgid "Likes/Dislikes"
+msgstr "Лайки/Дислайки"
+
+#: templates/tab-summary.php:166
+msgid "Number of total likes and dislikes."
+msgstr "Общее количество лайков и дислайков."
+
+#: templates/tab-emails.php:4
+msgid "Emails per specified period of time."
+msgstr "Письма отправленные за указанный промежуток времени."
+
+#: templates/tab-comments.php:4
+msgid "All comments per specified period of time."
+msgstr "Все комментарии за указанный промежуток времени."
+
+#: templates/tab-comments.php:14
+msgid "Common Hours"
+msgstr "Частые часы"
+
+#: templates/tab-comments.php:15
+msgid "Common hours for users to comment. Displayed in 24 hours format."
+msgstr ""
+"Частое время когда пользователи оставляют комментарии. Отображается в 24 "
+"формате."
+
+#: templates/tab-posts.php:3
+msgid "Popular by Rating"
+msgstr "Популярные по рейтингу"
+
+#: templates/tab-posts.php:4
+msgid "Most popular posts by rating."
+msgstr "Самые популярные записи по рейтингу."
+
+#: templates/tab-posts.php:15
+msgid "Popular by Subscriptions"
+msgstr "Популярные по подписчикам"
+
+#: templates/tab-posts.php:16
+msgid "Popular posts where users subscribed the most."
+msgstr "Популярные посты на которые подписались больше всего."
+
+#: templates/tab-posts.php:28
+msgid "Subscriptions per specified period of time."
+msgstr "Подписчики за указанный промежуток времени."
+
+#: includes/Pages/ReportSettings.php:67
+msgid "Report"
+msgstr "Отчет"
+
+#: includes/Pages/ReportSettings.php:74
+msgid "Email recipients"
+msgstr "Получатели письма"
+
+#: includes/Pages/ReportSettings.php:75
+#, php-format
+msgid ""
+"By default we send report to \"Email Address\" listed in \"<a href=\"%s\">"
+"General</a>\" settings. You may specify different email or list of them "
+"separated by comma. e.g. \"johndoe@gmail.com,alisa@gmail.com\" to send email "
+"to two recipients."
+msgstr ""
+"По умолчанию, мы отправляем письмо на \"Адрес e-mail\", которой находится на "
+"странице \"<a href=\"%s\">Общие</a>\" в настройках. Вы можете указать почту "
+"или список разделяющий запятой, например, \"kolya@gmail.com,vasya@gmail."
+"com\", чтобы отправить сразу двум получателям."
+
+#: includes/Pages/ReportSettings.php:81
+msgid "Report period"
+msgstr "Период отправки"
+
+#: includes/Pages/ReportSettings.php:84
+msgid "Daily"
+msgstr "Ежедневно"
+
+#: includes/Pages/ReportSettings.php:85
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: includes/Pages/ReportSettings.php:86
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+#: includes/Pages/ReportSettings.php:89
+msgid "Report interval. Define what is good period to receive a report."
+msgstr "Интервал отчета. Выберите интервал отправки отчета."
+
+#: includes/Emails/AdminNotification.php:88
+msgid "Hello,"
+msgstr "Здравствуйте,"
+
+#: includes/Emails/AdminNotification.php:90
+#, php-format
+msgid ""
+"This email contains analytical summary for %s about comments, active users, "
+"including moderators and administrators for period between %s and %s."
+msgstr ""
+"Это письмо включает в себя сводную аналитику %s о комментариях, активных "
+"пользователях, включая модераторов и администраторов за %s и %s."
+
+#: includes/Emails/AdminNotification.php:143
+#, php-format
+msgid "%s emails sent"
+msgstr "%s писем отправлено"
+
+#: includes/Emails/AdminNotification.php:149
+#, php-format
+msgid "%s new likes"
+msgstr "%s лайков"
+
+#: includes/Emails/AdminNotification.php:155
+#, php-format
+msgid "%s new post ratings"
+msgstr "%s рейтингов для постов"
+
+#: includes/Emails/AdminNotification.php:161
+#, php-format
+msgid "%s new subscriptions"
+msgstr "%s новых подписчиков"
+
+#: includes/Emails/AdminNotification.php:167
+#, php-format
+msgid "%s new files uploaded"
+msgstr "%s загруженных файлов "
+
+#: includes/Emails/AdminNotification.php:169
+msgid "Also, there were:"
+msgstr "Кроме этого, было:"
+
+#: includes/Emails/AdminNotification.php:200
+msgid "No popular post found for such period."
+msgstr "Не было найдено популярной записи за такой период. "
+
+#: includes/Emails/AdminNotification.php:203
+#, php-format
+msgid "%s is the most popular post based on number of comments."
+msgstr "%s является самой популярной статьей по количеству комментариев."
+
+#: includes/Emails/AdminNotification.php:240
+msgid "No active moderator was found for such period."
+msgstr "Не было найдено активных модераторов за такой период."
+
+#: includes/Emails/AdminNotification.php:243
+#, php-format
+msgctxt "Number of approved comments"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s комментарий"
+msgstr[1] "%s комментария"
+msgstr[2] "%s комментариев"
+
+#: includes/Emails/AdminNotification.php:252
+#, php-format
+msgid "%s approved %s and considered as the most active."
+msgstr "%s принял(-а) %s и оказался самым активным."
+
+#: includes/Emails/AdminNotification.php:278
+#, php-format
+msgctxt "Number of registered user in email template"
+msgid "<strong>%s user</strong> was registered."
+msgid_plural "<strong>%s users</strong> were registered."
+msgstr[0] "<strong>%s пользователь</strong> был зарегистрирован."
+msgstr[1] "<strong>%s пользователя</strong> было зарегистрировано."
+msgstr[2] "<strong>%s пользователей</strong> было зарегистрировано."
+
+#: includes/Emails/AdminNotification.php:310
+#: includes/Emails/AdminNotification.php:426
+msgid "From this:"
+msgstr "Из этого:"
+
+#: includes/Emails/AdminNotification.php:319
+#, php-format
+msgid "%s from %s"
+msgstr "%s из %s"
+
+#: includes/Emails/AdminNotification.php:327
+msgid "Unable to get detailed user information."
+msgstr "Не удалось получить детальную информацию о пользователе."
+
+#: includes/Emails/AdminNotification.php:378
+#, php-format
+msgid ""
+"<strong>%s</strong> is the most active for <i>number of comments</i> and <i>"
+"rating</i>."
+msgstr ""
+"<strong>%s</strong> оказался самым активным по <i>количеству комментариев</i>"
+" и <i>рейтингу</i>."
+
+#: includes/Emails/AdminNotification.php:379
+msgid "No name"
+msgstr "Нет имени"
+
+#: includes/Emails/AdminNotification.php:421
+#, php-format
+msgid "Published <strong>%s comments</strong> for <strong>%s posts</strong>."
+msgstr ""
+"Опубликовано <strong>%s комментариев</strong> для <strong>%s записей</strong>"
+"."
+
+#: includes/Emails/AdminNotification.php:431
+#, php-format
+msgctxt "Number of comment replies in email template"
+msgid "%s reply"
+msgid_plural "%s replies"
+msgstr[0] "%s ответ"
+msgstr[1] "%s ответа"
+msgstr[2] "%s ответов"
+
+#: includes/Emails/AdminNotification.php:441
+#, php-format
+msgid "%s awaiting moderation"
+msgstr "%s ожидают модерацию"
+
+#: includes/Emails/AdminNotification.php:443
+#, php-format
+msgid "%s spam"
+msgstr "%s спам"
+
+#: includes/Emails/AdminNotification.php:445
+#, php-format
+msgid "%s trashed"
+msgstr "%s в корзине"
+
+#: includes/Emails/AdminNotification.php:491
+#, php-format
+msgid "Analytical Summary for %s and %s"
+msgstr "Аналитическая сводка за %s и %s"
+
+#: includes/Cron/AnyCommentAnalyticsReport.php:59
+msgid "Every day"
+msgstr "Ежедневно"
+
+#: includes/Cron/AnyCommentAnalyticsReport.php:63
+msgid "Every week"
+msgstr "Еженедельно"
+
+#: includes/Cron/AnyCommentAnalyticsReport.php:67
+msgid "Every month"
+msgstr "Ежемесячно"
+
+#: includes/Ajax/AnyCommentAnalyticsAjaxReport.php:36
+msgid "Report added to queue, will be send soon."
+msgstr "Отчет добавлен в очередь, скоро будет отправлен."
+
+#: includes/Ajax/AnyCommentAnalyticsAjaxReport.php:43
+msgid "Failed to send report. Try again later"
+msgstr "Не удалось отправить отчет. Попробуйте снова."
+
+#. Name of the plugin
+msgid "AnyComment Analytics"
+msgstr "AnyComment Аналитика"
+
+#. Description of the plugin
+msgid "Advanced Analytics for AnyComment."
+msgstr "Глубокая аналитика для AnyComment."
+
+#. URI of the plugin
+msgid "https://anycomment.io"
+msgstr "https://anycomment.io"
+
+#. Author of the plugin
+msgid "AnyComment.io"
+msgstr "AnyComment.io"
