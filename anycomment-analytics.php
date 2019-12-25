@@ -75,15 +75,6 @@ class AnyCommentAnalytics
 
         $this->init_includes();
         $this->init_tab();
-        $this->init_textdomain();
-    }
-
-    /**
-     * Load locale.
-     */
-    public function init_textdomain()
-    {
-        load_plugin_textdomain("anycomment-analytics", false, basename(dirname(__FILE__)) . '/languages');
     }
 
     /**
