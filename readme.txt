@@ -4,7 +4,7 @@ Tags: anycomment, anycomment analytics, comment analytics, analytics
 Requires at least: 4.7
 Tested up to: 5.3
 Requires PHP: 5.4
-Stable tag: 0.2
+Stable tag: 0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/
 
