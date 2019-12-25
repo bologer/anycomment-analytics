@@ -54,6 +54,16 @@ Comments:
 * [Files]: Popular file types uploaded.
 * [Emails]: Emails per specified period of time.
 
+== Screenshots ==
+
+1. After installation & activation of addon you should see new "Analytics" tab.
+2. "Summary" tab contains generic information about your website.
+3. "Report" tab allows to configure automatic reports sent to specified email address(es).
+4. "Comments" tab contains analytical data related to comments.
+5. "Users" tab contains analytical data related to users.
+6. "Posts" tab contains analytical data related to posts.
+7. "Files" tab contains analytical data related to files.
+8. "Emails" tab contains analytical data related to emails.
 
 == Frequently Asked Questions ==
 
